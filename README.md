@@ -13,7 +13,7 @@ The models and solutions developed can provide an indication of the state of fin
 The dataset we will use was obtained from [ZINDI](https://zindi.africa/competitions/financial-inclusion-in-africa/data)
 This dataset contains demographic information and what financial services are used by approximately 33,600 individuals across East Africa. This data was extracted from various Finscope surveys ranging from 2016 to 2018, and more information about these surveys can be found here:
 
-[FinAccess Kenya 2018](https://fsdkenya.org/publication/finaccess2019/)
-[Finscope Rwanda 2016](http://www.statistics.gov.rw/publication/finscope-rwanda-2016)
-[Finscope Tanzania 2017](http://www.fsdt.or.tz/finscope/)
-[Finscope Uganda 2018](http://fsduganda.or.ug/finscope-2018-survey-report/)
+- [FinAccess Kenya 2018](https://fsdkenya.org/publication/finaccess2019/)
+- [Finscope Rwanda 2016](http://www.statistics.gov.rw/publication/finscope-rwanda-2016)
+- [Finscope Tanzania 2017](http://www.fsdt.or.tz/finscope/)
+- [Finscope Uganda 2018](http://fsduganda.or.ug/finscope-2018-survey-report/)
