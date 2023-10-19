@@ -17,3 +17,8 @@ This dataset contains demographic information and what financial services are us
 - [Finscope Rwanda 2016](http://www.statistics.gov.rw/publication/finscope-rwanda-2016)
 - [Finscope Tanzania 2017](http://www.fsdt.or.tz/finscope/)
 - [Finscope Uganda 2018](http://fsduganda.or.ug/finscope-2018-survey-report/)
+
+  ## Tools used
+  - Python: Scikitlearn, matplotlib, numpy, seaborn
+  - IDE: Google colab and Jupyter notebook
+  - Models Implemented: Logistic Regression, Random Forest and XGBoost
